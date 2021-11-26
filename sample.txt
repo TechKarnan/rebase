@@ -3,6 +3,8 @@ apple
 mango
 cheerry
 blue berry
+tomato
+musk lemon
 grapes
 banana
 papaya
